@@ -5,4 +5,4 @@ assets:
 - name: remastered/amusic/music110.dat/music110.win32.scd
   method: copy
   source:
-  - name: audio/enemy_battle_theme.win32.scd
+  - name: audio/music110.win32.scd
