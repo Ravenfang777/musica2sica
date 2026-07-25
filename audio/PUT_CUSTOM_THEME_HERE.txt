@@ -1,0 +1,5 @@
+Place a valid KH1 PC SCD here with this exact filename:
+
+enemy_battle_theme.win32.scd
+
+Then replace mod.yml with mod-custom-audio.yml before building the mod.

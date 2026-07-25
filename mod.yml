@@ -1,0 +1,9 @@
+title: KH1FM Battle Music Diversifyer
+originalAuthor: OpenAI
+description: Table-driven enemy battle-theme routing. Native music110 remains active until external audio is enabled.
+assets: [
+- name: remastered/amusic/music119.dat/music119.win32.scd
+  method: copy
+  source:
+  - name: audio/WakkaBlitzOff.ogg.scd
+]
